@@ -1,0 +1,53 @@
+body {
+	background-color: lightcyan;
+}
+@media all and (min-width:320px) {
+
+	.input[type=text] {
+    width: 50% !important;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+	}
+	.container {
+		margin-top: 12%;
+	}
+	button {
+		margin-left: 49%;
+		margin-top: 5px;
+	}
+input {
+	width: 50% !important;
+	margin-left: 30%;
+}
+footer {
+	margin-left: 45%;
+}
+
+	input[type=text]:focus {
+	    width: 100%;
+	}
+
+
+} 
+
+@media all and (min-width:720px) {
+
+
+
+ 
+
+}
+
+@media all and (min-width: 980px) {
+
+	
+
+
+
+}  
+#articl {
+	margin-left: 41%;
+}
+h1, h4,img {
+	margin-left: 41%;
+}
